@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209172953074",
+    "project_id": "collegebustracking-1b371",
+    "storage_bucket": "collegebustracking-1b371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209172953074:android:b842d26783cec2c3335d6b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209172953074-n5l04rb1lvmekkk0ecbrp0u5q1epann8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUe8HKZVOSQBstOd5O_rF4wPLjifqvfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209172953074-n5l04rb1lvmekkk0ecbrp0u5q1epann8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

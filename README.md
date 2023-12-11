@@ -21,8 +21,6 @@ The College Bus Tracking App is a mobile application developed to enhance the ef
 - Java
 - Firebase (Authentication and Realtime Database)
 
-**Result**: Presents the outcome of the project, demonstrating successful driver and student interactions with the app.
-
 ## Conclusion
 
 The College Bus Tracking App demonstrates the practical application of technology to improve campus transportation. The team learned essential skills in Android app development, Firebase integration, and real-time data synchronization. The project's success not only achieves its aim of vehicle tracking but also equips the team with valuable experience for future endeavors.
